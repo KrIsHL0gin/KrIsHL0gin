@@ -32,7 +32,7 @@
 
 <!-- Languages -->
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display:flex; align-items:center; align: center">
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -45,8 +45,8 @@
       <br>Reactjs
     </td>
    <td align="center" width="100">
-        <img src="https://icons8.com/icon/WoopfRcDj3RF/tailwind-css" alt="icon" width="45" height="50" />
-      <br>Riverpod
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="icon" width="45" height="50" />
+      <br>TailwindCss
     <!-- </td>
       <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
@@ -133,9 +133,10 @@
 </table>
 </div>
 
-<br>
+<br >
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<div style="display:flex; align-items:center; align: center">
 <p align="center">
  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrIsHL0gin&theme=onedark&hide_border=true&include_all_commits=true&count_private=true">
 
@@ -149,3 +150,4 @@
   <br>
   <!-- <a href="https://www.buymeacoffee.com/sugith"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a> -->
 </p>
+</div>
