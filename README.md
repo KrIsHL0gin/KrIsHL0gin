@@ -5,11 +5,16 @@
 
 <img align="center" alt="Coding" width="1000"
  src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
-<div  style="margin-bottom: 10px; "></div>
-<div align="center" >
+<div  style="margin-bottom: 30px; "></div>
+
+<div align="center">
+
 <samp >- 📫 Reach me at www.linkedin.com/in/krish-prajapati-46b863213 </samp>
+
 <samp>- 📫 Reach me at krishprajapati2604@gmail.com</samp>
+
 <!-- <samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp> -->
+
 <samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day! 💻</samp> 
 <!-- Qoute -->
 <div style="margin-bottom: 30px;"></div>
