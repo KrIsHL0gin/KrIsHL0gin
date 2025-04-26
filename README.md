@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="" width="22px" height="22px"> </h1>
+<h1 align="center"><samp>Turning Ideas Into WebApps</samp></h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Krish P</samp></h2>
 <h3 align="center"><samp>A MERN developer from India</samp> </h3>
