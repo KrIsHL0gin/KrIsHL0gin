@@ -36,28 +36,18 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
-      <br>Dart
-    </td>
-    <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
       </a>
       <br>Firebase
     </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
-      <br>BLoC
+        <img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" alt="icon" width="45" height="50" />
+      <br>Reactjs
     </td>
    <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
+        <img src="https://icons8.com/icon/WoopfRcDj3RF/tailwind-css" alt="icon" width="45" height="50" />
       <br>Riverpod
-    </td>
+    <!-- </td>
       <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
       <br>SQ Lite
@@ -65,7 +55,7 @@
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
       <br>Kotlin
-    </td>
+    </td> -->
        <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
       <br>Figma
@@ -100,17 +90,17 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>My SQL
     </td>
-           <td align="center" width="100">
+           <!-- <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
-    </td>
+    </td> -->
        
   </tr>
  <tr>
-        <td align="center" width="100">
+        <!-- <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
       <br>Postman
-    </td>
+    </td> -->
        <td align="center" width="100"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -119,10 +109,10 @@
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
       <br>Github
     </td>
-    <td align="center" width="100">
+    <!-- <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
       <br>Android Studio
-    </td>
+    </td> -->
             <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
@@ -131,10 +121,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
       <br>Linux
     </td>
-     <td align="center" width="100">
+     <!-- <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
       <br>Apple
-    </td>
+    </td> -->
      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
       <br>Windows
