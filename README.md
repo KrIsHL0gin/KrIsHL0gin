@@ -1,19 +1,161 @@
+<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="" width="22px" height="22px"> </h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(www.linkedin.com/in/krish-prajapati-46b863213)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishprajapati2604@gmail.com) 
+<h2 align="center"><samp>Hi 👋 I'm Krish P</samp></h2>
+<h3 align="center"><samp>A MERN developer from India</samp> </h3>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KrIsHL0gin&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KrIsHL0gin&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrIsHL0gin&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=KrIsHL0gin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 
+
+
+
+<div  style="margin-bottom: 10px; "></div>
+<div align="center" >
+
+<samp >- 📫 Reach me at www.linkedin.com/in/krish-prajapati-46b863213 </samp>
+
+<samp>- 📫 Reach me at krishprajapati2604@gmail.com</samp>
+
+<!-- <samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp> -->
+
+<samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day! 💻</samp> 
+
+
+<!-- Qoute -->
+<div style="margin-bottom: 30px;"></div>
+<h3 ><samp>✍️Random Dev Quote</samp></h3>
+    <div>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+    </div>
+    </div>
+
+
+<!-- Languages -->
+<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
+      <br>Dart
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
+      </a>
+      <br>Firebase
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
+      <br>BLoC
+    </td>
+   <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
+      <br>Riverpod
+    </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
+      <br>SQ Lite
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
+      <br>Kotlin
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+           <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+          <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+    </td>
+           <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+       
+  </tr>
+ <tr>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
+    </td>
+       <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
+      <br>Android Studio
+    </td>
+            <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+      <br>Linux
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
+      <br>Apple
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
+ </tr>
+</table>
+</div>
+
+<br>
+
+<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<p align="center">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrIsHL0gin&theme=onedark&hide_border=true&include_all_commits=true&count_private=true">
+
+<img height="50%" width="auto" src ="https://nirzak-streak-stats.vercel.app/?user=KrIsHL0gin&theme=onedark&hide_border=true">
+
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrIsHL0gin&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+
+
+
+  <br>
+  <br>
+  <!-- <a href="https://www.buymeacoffee.com/sugith"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a> -->
+</p>
