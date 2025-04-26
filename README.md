@@ -3,24 +3,14 @@
 <h2 align="center"><samp>Hi 👋 I'm Krish P</samp></h2>
 <h3 align="center"><samp>A MERN developer from India</samp> </h3>
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
-
-
-
-
-
+<img align="center" alt="Coding" width="1000"
+ src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 <div  style="margin-bottom: 10px; "></div>
 <div align="center" >
-
 <samp >- 📫 Reach me at www.linkedin.com/in/krish-prajapati-46b863213 </samp>
-
 <samp>- 📫 Reach me at krishprajapati2604@gmail.com</samp>
-
 <!-- <samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp> -->
-
 <samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day! 💻</samp> 
-
-
 <!-- Qoute -->
 <div style="margin-bottom: 30px;"></div>
 <h3 ><samp>✍️Random Dev Quote</samp></h3>
@@ -28,8 +18,6 @@
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
     </div>
     </div>
-
-
 <!-- Languages -->
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display:flex; align-items:center; align: center">
@@ -60,6 +48,10 @@
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
       <br>Figma
     </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
   </tr>
   <tr>
     <td align="center" width="100">
@@ -82,30 +74,24 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
-          <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+         
+    
+          
+  </tr>
+  <tr>
+        <!-- <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
+    </td> -->
+    <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>My SQL
     </td>
-           <!-- <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td> -->
-       
-  </tr>
- <tr>
-        <!-- <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
-      <br>Postman
-    </td> -->
-       <td align="center" width="100"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-       <td align="center" width="100">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
       <br>Github
     </td>
@@ -113,23 +99,23 @@
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
       <br>Android Studio
     </td> -->
-            <td align="center" width="100">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-      <td align="center" width="100">
+    <!-- <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
       <br>Linux
-    </td>
+    </td> -->
      <!-- <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
       <br>Apple
     </td> -->
-     <td align="center" width="100">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
       <br>Windows
     </td>          
- </tr>
+  </tr>
 </table>
 </div>
 
